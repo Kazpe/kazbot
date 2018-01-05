@@ -1,0 +1,8 @@
+{
+  "name": "kazbot",
+  "version": "1.0.0",
+  "description": "Kaz' Bot",
+  "main": "bot.js",
+  "author": "Kaz",
+  "dependencies": {}
+}
